@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <section className="pt-20 pb-16 bg-[#B04759] rounded-b-[50px]">
       <div className="w-full flex flex-col-reverse lg:flex-row items-center gap-x-16 max-w-[1140px] mx-auto text-white">
-        <article className="w-full max-w-[550px] flex flex-col gap-y-4 p-4 text-center">
+        <article className="w-full max-w-[550px] flex flex-col gap-y-4 p-4 text-center lg:text-left">
           <h2 className="text-4xl font-medium">Therapy that fits you.</h2>
           <div className="flex flex-col gap-y-3 text-lg">
             <p>Leena offers BIPOC-focused therapy services to meet your mental health needs.</p>
