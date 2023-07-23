@@ -20,7 +20,7 @@ const Navbar = () => {
           <li>gift cards</li>
           <li className="rounded-full bg-[#8BACAA] text-white px-3 py-1">match me with a therapist</li>
         </ul>
-        <div onClick={() => console.log("show nav")}>
+        <div className="block lg:hidden" onClick={() => console.log("show nav")}>
           <FaBars
             className="block lg:hidden text-3xl"
           />
