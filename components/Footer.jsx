@@ -5,6 +5,7 @@ const Footer = () => {
     <div className="w-full relative bg-[#B04759] pt-44 py-20 px-4">
       <div className="absolute -top-1 left-0 w-full h-[109px]">
         <Image
+          alt="Wave"
           className="w-full"
           width={1100} 
           height={32}
@@ -14,7 +15,7 @@ const Footer = () => {
       <div className="max-w-[1140px] mx-auto flex flex-col text-center lg:text-left lg:flex-row gap-y-6 justify-between font-light text-white">
         <div>
           <Image 
-            className="mb-10 mx-auto"
+            className="mb-10 mx-auto lg:mx-0"
             src="/logo.png"
             alt="Stuchers"
             width={170}
@@ -28,6 +29,7 @@ const Footer = () => {
           If you are in crisis please call 911 or the Toronto Distress Line (416-408-4357) or Canada Suicide Prevention Service (1-833-456-4566) or Kids Help Phone (1-800-668-6868) or go to your local hospital emergency room.
         </div>
       </div>
+      <div className="absolute bottom-0 left-0 w-full h-4 bg-[#F99B7D]"/>
     </div>
   )
 }
