@@ -4,8 +4,10 @@ const Footer = () => {
   return (
     <div className="w-full relative bg-[#B04759] pt-44 py-20 px-4">
       <div className="absolute -top-1 left-0 w-full h-[109px]">
-        <img
-          className="w-full" 
+        <Image
+          className="w-full"
+          width={1100} 
+          height={32}
           src="/wave-bg.svg"
         />
       </div>
