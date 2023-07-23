@@ -50,8 +50,12 @@ const FAQ = () => {
                     {faq.question}
                     {
                       activeIndex === idx ?
-                      <FaMinus/>:
-                      <FaChevronDown/>
+                      <div>
+                        <FaMinus/>
+                      </div>:
+                      <div>
+                        <FaChevronDown/>
+                      </div>
                     }
                   </div>
                 </div>
