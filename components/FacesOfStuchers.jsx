@@ -28,9 +28,12 @@ const FacesOfStuchers = () => {
       </div>
       <div className="text-center">
         <p className="font-semibold pb-4">Our welcoming team of therapists can’t wait to meet you!</p>
-        <div className="w-fit font-light mx-auto rounded-full bg-[#B04759] text-white px-3 py-1">
+        <button
+          type="button" 
+          className="w-fit font-light mx-auto rounded-full bg-[#B04759] text-white px-3 py-1"
+        >
           help me find the right fit
-        </div>
+        </button>
       </div>
     </section>
   )
