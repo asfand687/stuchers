@@ -15,7 +15,7 @@ const GetStarted = ({ showFormComponent }) => {
             Simply fill out a this short intake form, and a member of our team will be in touch!
           </p>
         </div>
-        <div className="py-16">
+        <div className="py-4 md:py-16">
           <button 
             onClick={showFormComponent}
             type='button' 
