@@ -15,10 +15,10 @@ const Form = () => {
     changeTranslateClass, 
   } = useContext(GlobalContext)
 
-
+  const number = 576 * 2
   return (
     <section className="w-full">
-      <form className={`w-full transition-transform ease-in-out duration-700 ${translateClass}`}>
+      <form className={`w-full transition-transform ease-in-out duration-700`}>
         {/* <div className="w-full h-[576px] max-w-[720px] mx-auto flex items-center">
           <div className="flex flex-col h-[70%]">
             <label className="flex items-center gap-x-2 w-fit text-2xl pb-6">

@@ -4,24 +4,20 @@ import { FaChevronDown, FaMinus } from "react-icons/fa"
 
 const faqs = [
   {
-    question: "what is leena?",
-    answer: "Leena is Canada's first and largest BIPOC-focused mental health platform. Our goal is to make mental health care accessible for everyone, regardless of their identity, cultural background, or location. We offer a diverse group of therapists, to ensure all of our clients find the right fit for their needs and lived experiences.  Leena means light, and our goal is to be a ray of sunlight for anyone looking for hope."
+    question: "What is Stuchers?",
+    answer: "Stuchers, guided by women leaders, operates virtually, providing tutoring to Pakistani students worldwide, including those within Pakistan and abroad. With students in various countries, we understand that extra support is often required beyond regular schooling, especially when certain challenges are overlooked. At Stuchers, our team identifies these specific areas needing attention, enabling students to develop the skills to overcome obstacles independently, reducing the need for external tutoring."
   },
   {
-    question: "what makes leena different from other virtual therapy platforms?",
-    answer: "Unlike other virtual therapy platforms, Leena is not a listing service. Leena clinicians are hand-picked for their experience and backgrounds, to ensure quality care - every time. Leena clinicians also participate in continuing education, group supervision, and individual coaching from leading experts in a variety of specializations relating to BIPOC communities and their mental health needs."
+    question: "What makes Stuchers different from other virtual tutoring platforms?",
+    answer: "Firstly, we are led by a team of dedicated woman who understand students unique challenges. So we empower both our teachers and students. Secondly, we cater to Pakistani students all over the world. Moreover we believe, every student has specific needs, areas that they need help with, hence, our teachers work on those specific areas following a personalised approach which is a key differentiator. Lastly, our goal is to foster independence in our students. We equip students with skills and strategies that they need to become self reliant learners."
   },
   {
-    question: "Do you offer sliding scale rates?",
-    answer: "Yes - Leena offers a select number of sliding scale spots monthly for clients in need of financial support. Please contact hello@helloleena.com for more information. "
+    question: "Do you offer only Evaluation Programs?",
+    answer: "Certainly, we cater to students focusing on past papers rather than the entire course. Our tutors then create unit or topic-based assessment tests to enhance their preparation insight. Post-evaluation, students engage in personalized discussion sessions with teachers, receiving valuable feedback on errors and strategies for progress. "
   },
   {
-    question: "Do you offer payment plans?",
-    answer: "Soon! We recognize that therapy is an investment, and that finances can often be a barrier for clients. Our goal is to make mental health care accessible to everyone - regardless of financial status. Stay tuned for more details on our payment plans - or email us at hello@helloleena.com for more details. "
-  },
-  {
-    question: "Can I be reimbursed from my insurance?",
-    answer: "Yes – if you have insurance/group benefits through your university or employer, you may be able to seek reimbursement for your session fees. We will happily provide you with receipts in order to submit to your insurance company. Unfortunately, we do not offer direct billing at this time."
+    question: "What if we pay for whole six months, and later on want to discontinue after a few months. Shall we get a refund?",
+    answer: "Rest assured, your funds are secure with us. If you decide to discontinue after 6 months of payment, we'll deduct only for the services used and refund the remainder. "
   }
 ]
 

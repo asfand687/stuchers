@@ -10,7 +10,7 @@ const FacesOfStuchers = () => {
         <div className="w-[50%] mx-auto h-1 bg-[#F99B7D]"/>
       </div>
       <p className="w-full max-w-[800px] mx-auto font-light text-base text-center">
-        Leena offers BIPOC-focused therapy services to meet your mental health needs. Get started with a free, no-obligation consultation. Simply ﬁll out our intake form, and a member of our care team will match you with a Leena therapist that best suits your needs.  
+        Stuchers is a woman led business, empowering beautiful woman of Pakistan, who are working remotely to provide for themselves while putting all their efforts and energy into your child turning their future gold. They are filtered on merit, best learnt from Pakistan’s renowned universities with their expertise and experience in their subjects.  
       </p>
       <div className="w-full max-w-[810px] mx-auto flex justify-around md:justify-center gap-4 gap-y-8 flex-wrap py-12">
         {
@@ -27,12 +27,12 @@ const FacesOfStuchers = () => {
         }
       </div>
       <div className="text-center">
-        <p className="font-semibold pb-4">Our welcoming team of therapists can’t wait to meet you!</p>
+        <p className="font-semibold pb-4">Our welcoming teachers can wait to start teaching you.</p>
         <button
           type="button" 
           className="w-fit font-light mx-auto rounded-full bg-[#B04759] text-white px-3 py-1"
         >
-          help me find the right fit
+          Schedule a demo
         </button>
       </div>
     </section>
